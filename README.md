@@ -1,1 +1,1 @@
-# This is my README
+http://arxiv.org/abs/1008.2986
